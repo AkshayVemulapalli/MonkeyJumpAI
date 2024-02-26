@@ -48,4 +48,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Akshay Vemulapalli - akshayv4500@gmail.com
 
-Project Link: [https://github.com/yourusername/MonkeyJumpAI](https://github.com/yourusername/MonkeyJumpAI)
+Project Link: [https://github.com/AkshayVemulapalli/MonkeyJumpAI](https://github.com/AkshayVemulapalli/MonkeyJumpAI)
