@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple steps.
 2. Run the program
 
    ```sh
-   python main.py
+   python GameCode.py
    ```
 
 ## License
